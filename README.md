@@ -4,13 +4,13 @@
 
 # calculator
 
-[![Release](https://img.shields.io/github/actions/workflow/status/bniladridas/calculator/release.yml?label=release)](https://github.com/bniladridas/calculator/actions)
+[![Release](https://img.shields.io/github/actions/workflow/status/bniladridas/calculator/release.yml?label=release)](https://github.com/coccinella-labs/calculator/actions)
 
-<img src="https://raw.githubusercontent.com/bniladridas/calculator/main/GUI/app-icon.png" width="64" style="border-radius:12px;box-shadow:0 2px 4px rgba(0,0,0,0.2);" align="right">
+<img src="https://raw.githubusercontent.com/coccinella-labs/calculator/main/GUI/app-icon.png" width="64" style="border-radius:12px;box-shadow:0 2px 4px rgba(0,0,0,0.2);" align="right">
 
 **Version:** ![Latest Release](https://img.shields.io/github/v/release/bniladridas/calculator)
 
-**Download:** [Latest Release](https://github.com/bniladridas/calculator/releases/latest)
+**Download:** [Latest Release](https://github.com/coccinella-labs/calculator/releases/latest)
 
 **Tracked by:** [glimegtk](https://github.com/glimegtk)
 
@@ -20,7 +20,7 @@ A small calculator built with `haskell-gi`, `GTK4`, and `Gio`.
 
 | Main Window | About Dialog |
 |:--:|:--:|
-| <img src="https://raw.githubusercontent.com/bniladridas/calculator/main/GUI/calculator-main-window.png" width="260"> | <img src="https://raw.githubusercontent.com/bniladridas/calculator/main/GUI/calculator-about-dialog.png" width="260"> |
+| <img src="https://raw.githubusercontent.com/coccinella-labs/calculator/main/GUI/calculator-main-window.png" width="260"> | <img src="https://raw.githubusercontent.com/coccinella-labs/calculator/main/GUI/calculator-about-dialog.png" width="260"> |
 
 ## Build
 

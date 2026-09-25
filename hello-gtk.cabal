@@ -2,7 +2,7 @@ name:                hello-gtk
 version:             0.1.3.0
 license:             MIT
 license-file:        LICENSE
-author:              Niladri Das
+author:              Coccinella Labs
 maintainer:          bniladridas@users.noreply.github.com
 build-type:         Simple
 cabal-version:      2.0
