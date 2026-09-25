@@ -170,7 +170,7 @@ showAboutDialog app = do
     [ #programName := "Calculator"
     , #version := T.pack (showVersion Paths.version)
     , #authors := ["Niladri Das"]
-    , #website := "https://github.com/bniladridas/calculator"
+    , #website := "https://github.com/coccinella-labs/calculator"
     , #websiteLabel := "GitHub Repository"
     , #modal := True
     ]

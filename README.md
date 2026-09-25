@@ -4,11 +4,11 @@
 
 # calculator
 
-[![Release](https://img.shields.io/github/actions/workflow/status/bniladridas/calculator/release.yml?label=release)](https://github.com/coccinella-labs/calculator/actions)
+[![Release](https://img.shields.io/github/actions/workflow/status/coccinella-labs/calculator/release.yml?label=release)](https://github.com/coccinella-labs/calculator/actions)
 
 <img src="https://raw.githubusercontent.com/coccinella-labs/calculator/main/GUI/app-icon.png" width="64" style="border-radius:12px;box-shadow:0 2px 4px rgba(0,0,0,0.2);" align="right">
 
-**Version:** ![Latest Release](https://img.shields.io/github/v/release/bniladridas/calculator)
+**Version:** ![Latest Release](https://img.shields.io/github/v/release/coccinella-labs/calculator)
 
 **Download:** [Latest Release](https://github.com/coccinella-labs/calculator/releases/latest)
 
